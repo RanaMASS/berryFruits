@@ -1,2 +1,3 @@
 Strawberries are red.
 Rasbberries are pink.
+Blueberries are blue.
